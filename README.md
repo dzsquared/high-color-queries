@@ -5,9 +5,9 @@ The current release is available to [download as a .vsix file](https://github.co
 
 ### Examples
 
-![Example 1](https://raw.githubusercontent.com/dzsquared/high-color-queries/master/images/hcq_example1.png)
+![Example 1](https://raw.githubusercontent.com/dzsquared/high-color-queries/master/images/hcq_example1.PNG)
 
-![Example 2](https://raw.githubusercontent.com/dzsquared/high-color-queries/master/images/hcq_example2.png)
+![Example 2](https://raw.githubusercontent.com/dzsquared/high-color-queries/master/images/hcq_example2.PNG)
 
 ### Color Basics
 - 1776E4 blue
