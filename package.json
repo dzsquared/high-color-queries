@@ -1,0 +1,23 @@
+{
+    "name": "hcq--high-color-queries-",
+    "displayName": "HCQ (High Color Queries)",
+    "description": "dark theme for Azure Data Studio with a dark backgroun and bright colors for TSQL",
+    "version": "0.0.2",
+    "publisher": "drewsk",
+    "engines": {
+        "vscode": "^1.27.0",
+        "sqlops": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "HCQ (High Color Queries)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/HCQ (High Color Queries)-color-theme.json"
+            }
+        ]
+    }
+}
