@@ -8,7 +8,10 @@
 		"sideBarTitle.foreground": "#bbbbbb",
 		"statusBar.background": "#1776E4",
 		"editorBracketMatch.background": "#E5648D",
-		"editor.selectionHighlightBorder": "#17E4C2"
+		"editor.selectionHighlightBorder": "#17E4C2",
+		"tab.border": "#1776E4",
+		"tab.activeBorder": "#1776E4",
+		"tab.activeBorderTop": "#1776E4"
 	},
 	"tokenColors": [
 		{
