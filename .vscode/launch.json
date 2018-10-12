@@ -15,7 +15,7 @@
             "name": "Extension",
             "type": "sqlopsExtensionHost",
             "request": "launch",
-            "runtimeExecutable": "sqlops",
+            "runtimeExecutable": "azuredatastudio",
             "args": [
                 "--extensionDevelopmentPath=${workspaceFolder}"
             ]
