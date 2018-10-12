@@ -11,7 +11,8 @@
 		"editor.selectionHighlightBorder": "#17E4C2",
 		"tab.border": "#1776E4",
 		"tab.activeBorder": "#1776E4",
-		"tab.activeBorderTop": "#1776E4"
+		"tab.activeBorderTop": "#1776E4",
+		"tab.activeBackground": "#9158FC"
 	},
 	"tokenColors": [
 		{
