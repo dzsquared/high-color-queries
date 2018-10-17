@@ -1,7 +1,7 @@
 # README for HCQ (High Color Queries)
 
 ## Installation
-The current release is available to [download as a .vsix file](https://github.com/dzsquared/high-color-queries/releases/download/v0.0.3/hcq--high-color-queries--0.0.3.vsix) and can be installed by opening the command palette (`ctrl/command+shift+p`) and selecting `Extensions: Install from VSIX...`
+The current release is available to [download as a .vsix file](https://github.com/dzsquared/high-color-queries/releases/download/v0.0.4/hcq--high-color-queries--0.0.4.vsix) and can be installed by opening the command palette (`ctrl/command+shift+p`) and selecting `Extensions: Install from VSIX...`
 
 ## Examples
 ### Dark
