@@ -1,7 +1,21 @@
 # README for HCQ (High Color Queries)
 
 ## Installation
-The current release is available to [download as a .vsix file](https://github.com/dzsquared/high-color-queries/releases/download/v0.0.4/hcq--high-color-queries--0.0.4.vsix) and can be installed by opening the command palette (`ctrl/command+shift+p`) and selecting `Extensions: Install from VSIX...`
+The current release is available to [download as a .vsix file](https://github.com/dzsquared/high-color-queries/releases/download/0.0.4/hcq--high-color-queries--0.0.4.vsix) and can be installed by opening the command palette (`ctrl/command+shift+p`) and selecting `Extensions: Install from VSIX...`
+
+## Enabling Themes
+To select/enable either of the included themes after installing, open the command palette (`ctrl/command+shift+p`) and select `Preferences: Color Theme`.
+
+![Command](https://raw.githubusercontent.com/dzsquared/high-color-queries/master/images/colortheme.PNG)
+
+
+![Select Theme](https://raw.githubusercontent.com/dzsquared/high-color-queries/master/images/colortheme3.PNG)
+
+
+This option can also be accessed by selecting the `Preferences`>`Color Theme` option from the File menu.
+
+![Menu](https://raw.githubusercontent.com/dzsquared/high-color-queries/master/images/colortheme2.PNG)
+
 
 ## Examples
 ### Dark
