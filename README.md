@@ -28,6 +28,9 @@ This option can also be accessed by selecting the `Preferences`>`Color Theme` op
 
 ![Example 2](https://raw.githubusercontent.com/dzsquared/high-color-queries/master/images/light_hcq_example2.PNG)
 
+## Learn More About Creating Color Themes
+![https://www.drewsk.tech/2018/10/28/building-a-color-theme-for-azure-data-studio/](https://www.drewsk.tech/2018/10/28/building-a-color-theme-for-azure-data-studio/)
+
 ## Color Basics
 ### Dark
 - 1776E4 blue
