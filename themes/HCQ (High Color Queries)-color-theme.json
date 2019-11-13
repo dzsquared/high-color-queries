@@ -12,7 +12,9 @@
 		"tab.border": "#1776E4",
 		"tab.activeBorder": "#1776E4",
 		"tab.activeBorderTop": "#1776E4",
-		"tab.activeBackground": "#1776E4"
+        "tab.activeBackground": "#1776E4",
+        "activityBar.activeBackground": "#1776E4",
+        "activityBar.activeBorder": "#17e4c2"
 	},
 	"tokenColors": [
 		{
