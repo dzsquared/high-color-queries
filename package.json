@@ -2,10 +2,10 @@
     "name": "hcq--high-color-queries-",
     "displayName": "HCQ (High Color Queries)",
     "description": "Theme Pair of Dark and Light Themes for TSQL in Azure Data Studio. Dark theme uses bright colors and light theme is SSMS-esque.",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "drewsk",
     "engines": {
-        "vscode": "^1.27.0"
+        "vscode": "^1.38.0"
     },
     "categories": [
         "Themes"
