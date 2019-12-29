@@ -11,7 +11,8 @@
 		"tab.activeForeground": "#000000",
 		"tab.inactiveForeground": "#ffffff",
 		"sideBar.border": "#313457",
-        "activityBar.activeBackground": "#313457",
+        "activityBar.activeBackground": "#005ac2",
+        "activityBarBadge.background": "#313457",
         "activityBar.activeBorder": "#fffda4"
 	},
 	"tokenColors": [
@@ -202,7 +203,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"fontStyle": "normal",
+				"fontStyle": "",
 				"foreground": "#d81111"
 			}
 		},

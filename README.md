@@ -1,7 +1,7 @@
 # README for HCQ (High Color Queries)
 
 ## Installation
-The current release is available to [download as a .vsix file](https://github.com/dzsquared/high-color-queries/releases/download/0.0.5/hcq--high-color-queries--0.0.5.vsix) and can be installed by opening the command palette (`ctrl/command+shift+p`) and selecting `Extensions: Install from VSIX...`
+The current release is available to [download as a .vsix file](https://github.com/dzsquared/high-color-queries/releases/download/0.0.6/hcq--high-color-queries--0.0.6.vsix) and can be installed by opening the command palette (`ctrl/command+shift+p`) and selecting `Extensions: Install from VSIX...`
 
 ## Enabling Themes
 To select/enable either of the included themes after installing, open the command palette (`ctrl/command+shift+p`) and select `Preferences: Color Theme`.
@@ -33,7 +33,7 @@ This option can also be accessed by selecting the `Preferences`>`Color Theme` op
 ![Activity Bar](https://raw.githubusercontent.com/dzsquared/high-color-queries/master/images/activitybar2.png)
 
 ## Learn More About Creating Color Themes
-![https://www.drewsk.tech/2018/10/28/building-a-color-theme-for-azure-data-studio/](https://www.drewsk.tech/2018/10/28/building-a-color-theme-for-azure-data-studio/)
+[https://www.drewsk.tech/2018/10/28/building-a-color-theme-for-azure-data-studio/](https://www.drewsk.tech/2018/10/28/building-a-color-theme-for-azure-data-studio/)
 
 ## Color Basics
 ### Dark
@@ -53,6 +53,9 @@ This option can also be accessed by selecting the `Preferences`>`Color Theme` op
 - 7210ac purple
 
 ## Change Log
+
+### v0.0.6
+- Adjusts activity bar badge for better offset against active background
 
 ### v0.0.5
 - Adds activity bar color tokens ahead of vscode 1.40 being merged into Azure Data Studio
