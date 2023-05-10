@@ -68,3 +68,7 @@ This option can also be accessed by selecting the `Preferences`>`Color Theme` op
 
 ### v0.0.2
 - Initial release
+
+## License
+
+This extension is released under the [MIT License](https://raw.githubusercontent.com/dzsquared/high-color-queries/master/LICENSE).
